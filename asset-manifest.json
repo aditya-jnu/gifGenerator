@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/github.io/gifGenerator/static/css/main.8f534ebc.css",
-    "main.js": "/github.io/gifGenerator/static/js/main.a2729e9d.js",
-    "index.html": "/github.io/gifGenerator/index.html",
-    "main.8f534ebc.css.map": "/github.io/gifGenerator/static/css/main.8f534ebc.css.map",
-    "main.a2729e9d.js.map": "/github.io/gifGenerator/static/js/main.a2729e9d.js.map"
+    "main.css": "/gifGenerator/static/css/main.8f534ebc.css",
+    "main.js": "/gifGenerator/static/js/main.a2729e9d.js",
+    "index.html": "/gifGenerator/index.html",
+    "main.8f534ebc.css.map": "/gifGenerator/static/css/main.8f534ebc.css.map",
+    "main.a2729e9d.js.map": "/gifGenerator/static/js/main.a2729e9d.js.map"
   },
   "entrypoints": [
     "static/css/main.8f534ebc.css",
